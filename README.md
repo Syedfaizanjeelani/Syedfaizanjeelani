@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [Syedfaizanjeelani/github.io](Syedfaizanjeelani/github.io)
+- 👨‍💻 All of my projects are available at [[Syedfaizanjeelani/github.io](https://github.com/Syedfaizanjeelani?tab=repositories)]
 
 - 📫 How to reach me **fsyed9444@gmail.com**
 
